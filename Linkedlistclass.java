@@ -1,6 +1,6 @@
 package Linked_List;
 /**
- * Linkedlistclass
+ * Linkedlistclass Nikhil
  */
 
 class SLL{
